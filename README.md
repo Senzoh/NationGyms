@@ -1,5 +1,5 @@
 # NationGyms
-Gym Management interface
+Gym Management Application
 
 C# database application to manage both members and staff data. The topic I chose was “Fitness” and created a member management application for the staff at “NationGyms” to utilize when adding and organizing their members and their data. My application consists of 5 Main forms: Home, add member, Search database, Graphs, And gym plan. With additional forms for the login and the settings. The application includes two Databases to store member data and staff login, from which the application frequently references and queries. My Program includes many of Nielsen’s Heuristics for improved UI design, such as Nielsen’s 4 law “Consistency and standard” (Nielsen, 1995 ) where I made it my priority to make each forms designs consistent to one another by following the same design template .
 
